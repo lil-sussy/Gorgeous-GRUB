@@ -88,4 +88,4 @@ Just bear in mind that each theme may have its own license or restrictions, so b
 |[**Grubshin Bootpact (Set)**](https://github.com/max-ishere/grubshin-bootpact)|
 |    |    |    |
 |<img src="/Images/MatrixMorpheus.png" width="247" alt="A grub theme inspired from the iconic red-pill scene of the Matrix movie">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**Matrix-Morpheus-GRUB-Theme**](https://github.com/Priyank-Adhav/Matrix-Morpheus-GRUB-Theme)|-|
+|[**Matrix-Morpheus-GRUB-Theme**](https://github.com/Priyank-Adhav/Matrix-Morpheus-GRUB-Theme)|-|-|
